@@ -1,3 +1,4 @@
 # Aliases extracted from modules themselves.
 alias of:N*T*Csunplus,sp7350-rngC* sp7350_rng
 alias of:N*T*Csunplus,sp7350-rng sp7350_rng
+alias tee:ab7a617c-b8e7-4d8f-8301-d09b61036b64* optee_rng
